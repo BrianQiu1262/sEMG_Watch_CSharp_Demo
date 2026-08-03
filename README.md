@@ -1,3 +1,3 @@
 # sEMG_Watch_C-_Demo
 C# demo for UI
-/interface.png
+![Top View](https://github.com/BrianQiu1262/sEMG_Watch_C-_Demo/edit/main/interface.png)
