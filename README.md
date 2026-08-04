@@ -1,5 +1,5 @@
 # sEMG_Watch_C#_Demo
-C# demo for UI
+C# demo for UI. (.NET framework 4.6)
 
 ## Interface
 ![Top View](https://github.com/BrianQiu1262/sEMG_Watch_CSharp_Demo/blob/main/interface.png?raw=true)
